@@ -328,7 +328,7 @@
         .socialbutton {
             width: 500px;
             margin-top: 0%;
-            height: 20;
+            height: -20;
         }
         .mobilebuttons {
             display: none;
